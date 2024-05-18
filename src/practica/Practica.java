@@ -24,6 +24,7 @@ public class Practica {
         e1.setSueldo(2500);
         
         Empleado e2 = new Empleado();
+        
         e2.getDocumento();
        
     }
